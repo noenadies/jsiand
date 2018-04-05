@@ -92,6 +92,8 @@ gdjs.Nueva_32EscenaCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariabl
 }{for(var i = 0, len = gdjs.Nueva_32EscenaCode.GDcambioObjects1.length ;i < len;++i) {
     gdjs.Nueva_32EscenaCode.GDcambioObjects1[i].setString("hora");
 android();
+
+alert(esresul);
     // giovanni
 }
 }{for(var i = 0, len = gdjs.Nueva_32EscenaCode.GDNuevoObjetoObjects1.length ;i < len;++i) {
